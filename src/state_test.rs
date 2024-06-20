@@ -1,5 +1,3 @@
-mod state_test;
-
 use std::error::Error;
 use serde::{Deserialize, Serialize};
 use tokio::time::{sleep, Duration};
